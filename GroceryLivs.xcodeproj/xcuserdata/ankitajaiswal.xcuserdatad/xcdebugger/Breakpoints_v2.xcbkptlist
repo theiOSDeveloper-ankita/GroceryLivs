@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4975D8F8-91AD-4C90-8160-981870B3D804"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA816692-4462-4367-B739-3C3C0E996DEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroceryLivs/TabBarViews/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "authenticateUser(username:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA816692-4462-4367-B739-3C3C0E996DEB - 9c70faf5f6181fbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroceryLivs.LoginViewModel.authenticateUser(username: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DA816692-4462-4367-B739-3C3C0E996DEB - fa84303d806d84c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GroceryLivs.LoginViewModel.authenticateUser(username: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "DA816692-4462-4367-B739-3C3C0E996DEB - 9c910873cb9b59d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroceryLivs.LoginViewModel.authenticateUser(username: Swift.String, password: Swift.String, showtabbarscreen: Swift.Bool) -&gt; ()"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DA816692-4462-4367-B739-3C3C0E996DEB - 871b0451172593f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GroceryLivs.LoginViewModel.authenticateUser(username: Swift.String, password: Swift.String, showtabbarscreen: Swift.Bool) -&gt; ()"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80DB06A6-FAC4-49D1-B495-D0827443A7D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroceryLivs/TabBarViews/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "authenticateUser(username:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80DB06A6-FAC4-49D1-B495-D0827443A7D9 - fa84303d806d8406"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GroceryLivs.LoginViewModel.authenticateUser(username: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "80DB06A6-FAC4-49D1-B495-D0827443A7D9 - 871b04511725935d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GroceryLivs.LoginViewModel.authenticateUser(username: Swift.String, password: Swift.String, showtabbarscreen: Swift.Bool) -&gt; ()"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "80DB06A6-FAC4-49D1-B495-D0827443A7D9 - 871b04511725933c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GroceryLivs.LoginViewModel.authenticateUser(username: Swift.String, password: Swift.String, showtabbarscreen: Swift.Bool) -&gt; ()"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DC19FEF-A48E-4147-A1F8-1201FF990A5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroceryLivs/TabBarViews/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "authenticateUser(username:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B78F4AB-BB76-48CC-BAF3-B9DBE0943D90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroceryLivs/TabBarViews/ChangePasswordView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5B78F4AB-BB76-48CC-BAF3-B9DBE0943D90 - 5d9498138a730450"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroceryLivs.ChangePasswordView.body.getter : some"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/ChangePasswordView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "5B78F4AB-BB76-48CC-BAF3-B9DBE0943D90 - 5d9498138a730477"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroceryLivs.ChangePasswordView.body.getter : some"
+                  moduleName = "GroceryLivs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitajaiswal/Documents/iOS%20test%20Projects/GroceryLivs/GroceryLivs/TabBarViews/ChangePasswordView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
